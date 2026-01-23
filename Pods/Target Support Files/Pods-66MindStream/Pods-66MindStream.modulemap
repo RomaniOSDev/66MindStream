@@ -1,0 +1,6 @@
+framework module Pods_66MindStream {
+  umbrella header "Pods-66MindStream-umbrella.h"
+
+  export *
+  module * { export * }
+}
